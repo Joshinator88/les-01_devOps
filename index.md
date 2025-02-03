@@ -1,1 +1,1 @@
-Team: Joshua
+Team:
